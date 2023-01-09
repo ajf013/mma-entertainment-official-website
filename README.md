@@ -3,7 +3,7 @@
 
 ### [Live Site](https://mmaenttamil.netlify.app/)
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3b526cfc-da29-4ec1-82be-321637a50830/deploy-status)](https://app.netlify.com/sites/mmaenttamil/deploys)
 
 ## You can reach out 😊😊
 Feel free to contact me about the problems. I will try to help as much as I can 😉
